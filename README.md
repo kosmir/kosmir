@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello, I'm Konstantin
 
-<!--
-**kosmir/kosmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a support engineer in the fintech industry, currently living in Dublin, Ireland. I'm passionate about coding and enjoy working with C#.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏦 I work in the fintech industry, providing support for financial software and systems.
+- 🌆 I'm based in Dublin, Ireland.
+- 💻 I'm passionate about coding and continuously improving my skills.
+- 📚 Currently, I'm learning and working with C# to build robust and efficient applications.
+
+## My Interests
+
+- 🖥️ Coding in C# and exploring the .NET ecosystem.
+- 💡 Solving complex problems and learning from challenges.
+- 🌐 Contributing to open-source projects and the developer community.
+
+## Contact Me
+
+You can reach out to me via [LinkedIn](https://www.linkedin.com/in/1konstantinsmirnov1/).
+
+Feel free to connect, collaborate, or discuss anything related to coding, C#, or the fintech industry. Let's learn and grow together!
+
+Happy coding! 🚀
